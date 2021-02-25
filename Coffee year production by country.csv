@@ -1,0 +1,37 @@
+﻿Continent,Country ,"Latitude (-s,n)","Longitude (e,-w)",Production In thousand 60-kg bags 2017,Production In thousand 60-kg bags 2018,Production In thousand 60-kg bags 2019,Production In thousand 60-kg bags 2020
+Africa,Burundi,-3.3731,29.9189,203,221,268,257
+Africa,Cameroon,7.3697,12.3547,370,310,268,280
+Africa,Ivory Coast,7.54,-5.5471,1624,2175,1929,1775
+Africa,Democratic Republic of Congo,-4.03833,21.75866,382,397,391,375
+Africa,Ethiopia,9.145,40.4897,7347,7511,7343,7375
+Africa,Guinea,9.9456,-9.6966,229,153,178,150
+Africa,Kenya,-0.0236,37.9062,790,930,844,775
+Africa,Madagascar,-18.7669,46.8691,398,380,380,366
+Africa,Rwanda,-1.9403,29.8739,293,372,353,380
+Africa,Tanzania,-6.369,34.8888,862,1125,921,913
+Africa,Togo,8.6195,0.8248,115,54,41,40
+Africa,Uganda ,1.3733,32.2903,4597,4704,5509,5620
+Asia and Oceania,India,20.5937,78.9629,5813,5325,4968,5700
+Asia and Oceania,Indonesia,-0.7893,113.9213,10544,10071,11675,12273
+Asia and Oceania,Lao People's Democratic Republic,19.8563,102.4955,533,647,622,600
+Asia and Oceania,Papua New Guinea,-6.315,143.9555,783,886,733,683
+Asia and Oceania,Philippines,12.8797,121.774,204,216,255,253
+Asia and Oceania,Thailand,15.87,100.9925,638,482,517,500
+Asia and Oceania,Vietnam ,14.0583,108.2772,33432,30283,30487,29000
+Asia and Oceania,Yemen,15.5527,48.5164,132,86,91,100
+Mexico & Central America,Costa Rica,9.7489,-83.7534,1561,1427,1472,1450
+Mexico & Central America,Cuba,21.5218,-77.7812,116,128,129,126
+Mexico & Central America,Dominican Republic,18.7357,-70.1627,416,425,396,375
+Mexico & Central America,El Salvador,13.7942,-88.8965,760,761,661,600
+Mexico & Central America,Guatemala,15.7835,-90.2308,3734,4007,3606,3750
+Mexico & Central America,Haiti,18.9712,-72.2852,343,347,346,345
+Mexico & Central America,Honduras ,15.2,-86.2419,7560,7153,5931,6100
+Mexico & Central America,Mexico,23.6345,-102.5528,4485,4351,3970,4000
+Mexico & Central America,Nicaragua,12.8654,-85.2072,2642,2879,2882,2650
+Mexico & Central America,Panama,8.5308,-80.7821,105,128,114,115
+South America,Bolivia,16.2902,-63.5887,84,82,80,74
+South America,Brazil,-14.235,-51.9253,57077,62739,61857,65343
+South America,Colombia,4.5709,-74.2973,13824,13866,14100,14300
+South America,Ecuador,-1.8312,-78.1834,592,512,544,497
+South America,Peru,-9.19,-75.0152,4275,4157,3827,3794
+South America,Venezuela,6.4238,-66.5897,572,578,525,500
