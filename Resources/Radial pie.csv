@@ -1,0 +1,37 @@
+﻿Order,Continent,Country ,"Latitude (-s,n)","Longitude (e,-w)",Production In thousand 60-kg bags
+1,Africa,Burundi,-3.3731,29.9189,257
+2,Africa,Cameroon,7.3697,12.3547,280
+3,Africa,Ivory Coast,7.54,-5.5471,1775
+4,Africa,Democratic Republic of Congo,-4.03833,21.75866,375
+5,Africa,Ethiopia,9.145,40.4897,7375
+6,Africa,Guinea,9.9456,-9.6966,150
+7,Africa,Kenya,-0.0236,37.9062,775
+8,Africa,Madagascar,-18.7669,46.8691,366
+9,Africa,Rwanda,-1.9403,29.8739,380
+10,Africa,Tanzania,-6.369,34.8888,913
+11,Africa,Togo,8.6195,0.8248,40
+12,Africa,Uganda ,1.3733,32.2903,5620
+13,Asia and Oceania,India,20.5937,78.9629,5700
+14,Asia and Oceania,Indonesia,-0.7893,113.9213,12273
+15,Asia and Oceania,Lao People's Democratic Republic,19.8563,102.4955,600
+16,Asia and Oceania,Papua New Guinea,-6.315,143.9555,683
+17,Asia and Oceania,Philippines,12.8797,121.774,253
+18,Asia and Oceania,Thailand,15.87,100.9925,500
+19,Asia and Oceania,Vietnam ,14.0583,108.2772,29000
+20,Asia and Oceania,Yemen,15.5527,48.5164,100
+21,Mexico & Central America,Costa Rica,9.7489,-83.7534,1450
+22,Mexico & Central America,Cuba,21.5218,-77.7812,126
+23,Mexico & Central America,Dominican Republic,18.7357,-70.1627,375
+24,Mexico & Central America,El Salvador,13.7942,-88.8965,600
+25,Mexico & Central America,Guatemala,15.7835,-90.2308,3750
+26,Mexico & Central America,Haiti,18.9712,-72.2852,345
+27,Mexico & Central America,Honduras ,15.2,-86.2419,6100
+28,Mexico & Central America,Mexico,23.6345,-102.5528,4000
+29,Mexico & Central America,Nicaragua,12.8654,-85.2072,2650
+30,Mexico & Central America,Panama,8.5308,-80.7821,115
+31,South America,Bolivia,16.2902,-63.5887,74
+32,South America,Brazil,-14.235,-51.9253,65343
+33,South America,Colombia,4.5709,-74.2973,14300
+34,South America,Ecuador,-1.8312,-78.1834,497
+35,South America,Peru,-9.19,-75.0152,3794
+36,South America,Venezuela,6.4238,-66.5897,500
