@@ -61,15 +61,15 @@ def Dashboard():
 
 @app.route("/predict_data")
 def predict_data():
-      return render_template('predict_data')
+      return render_template('predict_data.html')
 
 @app.route("/predict_dataLG")
-def predict_data():
-      return render_template('predict_dataLG')
+def predict_dataLG():
+      return render_template('predict_dataLG.html')
 
 @app.route("/recommend")
 def recommend():
-     return render_template('recommend')
+     return render_template('recommend.html')
 
 
  
