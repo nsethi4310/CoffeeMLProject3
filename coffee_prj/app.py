@@ -53,7 +53,7 @@ def home():
 
 @app.route("/about")
 def about():
-    return render_template('aboutme_test.html')
+    return render_template('about.html')
 
 @app.route("/Dashboard")
 def Dashboard():
@@ -62,6 +62,10 @@ def Dashboard():
 @app.route("/predict_data")
 def predict_data():
       return render_template('predict_data')
+
+@app.route("/predict_dataLG")
+def predict_data():
+      return render_template('predict_dataLG')
 
 @app.route("/recommend")
 def recommend():
